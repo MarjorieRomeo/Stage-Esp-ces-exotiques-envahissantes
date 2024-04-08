@@ -1,2 +1,4 @@
-# Stage-Esp-ces-exotiques-envahissantes
-Détails des scripts réalisés pour ce projet 
+# Stage Espèces exotiques envahissantes
+
+- Renommer et trier les données d'origine : nettoyage donnees.R
+  
